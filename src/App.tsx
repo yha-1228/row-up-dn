@@ -1,4 +1,4 @@
-import './App.css'
+import './styles/normalize.css'
 
 function App() {
   return <div></div>
